@@ -2,6 +2,8 @@
 
 Lengend:  😊Easy   😒Medium  😵‍💫Expert
 
+If you have any suggestions, please feel free to contact me. Yuqinghelloworld@gmail.com
+
 # Table of contents
 
 * [Supervised machine learning](https://github.com/HelloYuqing/Data-Science/blob/main/technical.md#supervised-machinelearning)
