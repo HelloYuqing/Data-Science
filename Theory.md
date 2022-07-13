@@ -6,7 +6,7 @@ If you have any suggestions, please feel free to contact me. Yuqinghelloworld@gm
 
 # Table of contents
 
-* [Supervised machine learning](https://github.com/HelloYuqing/Data-Science/blob/main/technical.md#supervised-machinelearning)
+* [Supervised machine learning](https://github.com/HelloYuqing/Data-Science/blob/main/Theory.md#supervised-machinelearning)
 * [Linear regression](https://github.com/HelloYuqing/Data-Science/blob/main/Theory.md#linear-regression)
 * Validation
 * Clssification
