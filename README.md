@@ -8,5 +8,5 @@ This repository is to collect basic questions of data science.
 
 # Questions by category
 
-* Theoretical questions : [theory](https://github.com/HelloYuqing/Data-Science/blob/bc2bce8effede6f9fd2692507a938fa47ca6eb48/theory)
+* Theoretical questions : [theory](https://github.com/HelloYuqing/Data-Science/blob/518ff20cfe30041e99774eb75d4f59ecbb6858ee/Theory.md)
 * Technical questions : [technical](https://github.com/HelloYuqing/Data-Science/blob/030173de4a882a95cf5cd52b70ab034ca6c0ea62/technical)
