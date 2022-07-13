@@ -50,9 +50,9 @@ Regression is a part of supervised ML. Regression models investigate the relatio
 
 Linear regression is a model that assumes a linear relationship between the input variables (X) and the single output variable (y).
 
-'''
+```
 y = B0 + B1*x1 + ... + Bn * xN
-'''
+```
 
 
 
