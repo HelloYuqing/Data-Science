@@ -1,6 +1,6 @@
 # Theoretical Questions 
 
-Lengen:  😊Easy   😒Medium  😵‍💫Expert
+Lengend:  😊Easy   😒Medium  😵‍💫Expert
 
 # Table of contents
 
