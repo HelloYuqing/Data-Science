@@ -1,8 +1,13 @@
 # Theoretical Questions 
 
-Lengend:  😊Easy   😒Medium  😵‍💫Expert
+😊Easy   
 
-If you have any suggestions, please feel free to contact me. Yuqinghelloworld@gmail.com
+
+😒Medium  
+
+
+😵‍💫Expert
+
 
 # Table of contents
 
