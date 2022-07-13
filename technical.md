@@ -4,7 +4,7 @@ Lengend:  😊Easy   😒Medium  😵‍💫Expert
 
 # Table of contents
 
-* Supervised machine learning
+* [Supervised machine learning](https://github.com/HelloYuqing/Data-Science/blob/main/technical.md#supervised-machinelearning)
 * Linear regression
 * Validation
 * Clssification
